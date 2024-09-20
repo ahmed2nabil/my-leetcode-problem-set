@@ -1,2 +1,2 @@
 # my-leetcode-problem-set
-for pracitcing more problems into leetcode, revise and study more about data structure and algorithms.
+for pracitcing more leetcode problems, revise and study more about data structure and algorithms.
